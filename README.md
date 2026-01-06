@@ -191,7 +191,7 @@ Contributions are welcome! Areas for improvement:
 
 ## References & Demo
 
-- **Live Demo**: [View on LinkedIn](hhttps://www.linkedin.com/posts/mohamed-el-bialy-6a0874268_ai-machinelearning-computervision-activity-7311881633270325266-m8fa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGftdgB5NLCLy34489p9vvZKXtNOgElOv0)
+- **Live Demo**: [View on LinkedIn](https://www.linkedin.com/posts/mohamed-el-bialy-6a0874268_ai-machinelearning-computervision-activity-7311881633270325266-m8fa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGftdgB5NLCLy34489p9vvZKXtNOgElOv0)
 - **YOLOv8 Documentation**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - **PyTorch**: [Deep Learning Framework](https://pytorch.org/)
 
